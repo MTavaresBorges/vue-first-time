@@ -10,10 +10,11 @@
     // import Example08 from './components/Example08Keyboard.vue';
     // import Example09 from './components/Example09Submit.vue';
     // import Example10 from './components/Example10Lifecycle.vue';
-    import Example11 from './components/Example11Props1.vue';
+    // import Example11 from './components/Example11Props1.vue';
+    import Example12 from './components/Example12Routes.vue';
 </script>
 <!-- HTML -->
 
 <template>
-    <Example11></Example11>
-</template>
+    <Example12></Example12>
+</template>rio 
